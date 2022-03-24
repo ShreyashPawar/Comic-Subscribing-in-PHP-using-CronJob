@@ -1,0 +1,40 @@
+.email {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: cyan;
+    border-style: outset;
+}
+.email:hover {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: white;
+    border-style: outset;
+}
+
+.body{
+    background-image: linear-gradient(to left, #f2bf50 , #ecc410);
+
+    /* 236, 196, 16, 0.945 */
+}
+
+.form{
+    background-color: whitesmoke;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 3%;
+}
+
+.button {
+  transition-duration: 0.4s;
+  padding: 1.5% 3%;
+  background-color: #e7e7e7; color: black;
+}
+
+.button:hover {
+  background-color: #5766ac;
+  color: whitesmoke;
+}
