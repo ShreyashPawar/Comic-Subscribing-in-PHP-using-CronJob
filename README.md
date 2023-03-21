@@ -1,4 +1,4 @@
-# rtlearn PHP ASSIGNMENT - PROBLEM STATEMENT 1
+# PHP - PROBLEM STATEMENT 1
 # Email a random XKCD challenge Solution
 - This is a PHP application that accepts a user's email address and emails them a random XKCD comic image every five minutes.
 # Live Demo Link
